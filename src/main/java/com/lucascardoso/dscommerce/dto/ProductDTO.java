@@ -1,5 +1,6 @@
 package com.lucascardoso.dscommerce.dto;
 
+
 import com.lucascardoso.dscommerce.entities.Product;
 
 public class ProductDTO {
